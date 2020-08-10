@@ -36,6 +36,15 @@ Paste the following code in `attestation.js` (make sure to replace `<attesterMne
 
 [comment]: <copy and paste 1️⃣ requestForAttestation_example from 4_attestation.ts>
 [comment]: <IMPORTANT! Respect the UNCOMMENT-LINE and REMOVE-LINE comments>
+[//]: <Test 1>
+
+[//]: # Test 2.1
+
+[//]: #Test 2.2
+
+[comment]: # 3.1
+
+[comment]: #3.1
 
 ```javascript
 const Kilt = require('@kiltprotocol/sdk-js')
