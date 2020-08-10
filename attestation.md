@@ -34,8 +34,9 @@ In the following, we'll refer to it as `<requestForAttestationJSONString>`.
 
 Paste the following code in `attestation.js` (make sure to replace `<attesterMnemonic>` and `<requestForAttestationJSONString>` with the relevant objects):
 
-[comment]: #copy and paste 1️⃣ requestForAttestation_example from 4_attestation.ts
-[comment]: #IMPORTANT! Respect the UNCOMMENT-LINE and REMOVE-LINE comments
+[comment]: # copy and paste 1️⃣ requestForAttestation_example from 4_attestation.ts
+
+[comment]: # IMPORTANT! Respect the UNCOMMENT-LINE and REMOVE-LINE comments
 
 ```javascript
 const Kilt = require('@kiltprotocol/sdk-js')
