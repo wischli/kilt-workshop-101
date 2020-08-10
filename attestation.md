@@ -38,6 +38,19 @@ Paste the following code in `attestation.js` (make sure to replace `<attesterMne
 
 [comment]: # IMPORTANT! Respect the UNCOMMENT-LINE and REMOVE-LINE comments
 
+[//]: <Test 1>
+
+[//]: # Test 2
+
+<!-- Test 3 -->
+
+[](Test 4)
+
+[test 5]: :
+[test 6]: abc
+
+{::Test7}
+
 ```javascript
 const Kilt = require('@kiltprotocol/sdk-js')
 
